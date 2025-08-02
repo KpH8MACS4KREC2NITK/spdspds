@@ -18,12 +18,11 @@ National Institute of Technology Karnataka, Surathkal
 Srinivasnagar, Mangaluru - 575025, India. 
 Residence:  8-129/12  SASHESHA,  Sowjanya Road, Naigara Hills, 
 Bikarnakatte, Kulshekar Post, Mangaluru - 575005. Karnataka State, India. 
-k.prasad.h@gmail.com    [+919481022946]    spdspds@gmail.com 
-https://arxiv.org/abs/1405.6902 
-https://archive.org/details/s-p-d-s-p-d-s 
-https://doi.org/10.5281/zenodo.14053412 
-https://hal.archives-ouvertes.fr/hal-03087745 
 https://www.linkedin.com/in/keshavaprasadahalemane/ 
+https://colab.ws/researchers/R-3D34E-09884-MI42Z 
+https://github.com/KpH8MACS4KREC2NITK 
+https://orcid.org/0000-0003-3483-3521 
+https://osf.io/xftv8/  
 
 ABSTRACT 
 The Symmetric Primal-Dual Symplex Pivot Decision Strategy (spdspds) is a novel iterative algorithm to solve linear programming problems.  A symplex pivoting operation is considered simply as an exchange between a basic (dependent) variable and a non-basic (independent) variable, in the Goldman-Tucker Compact-Symmetric-Tableau (CST) which is a unique symmetric representation common to both the primal as well as the dual of a linear programming problem in its standard canonical form.  From this viewpoint, the classical simplex pivoting operation of Dantzig may be considered as a restricted special case. 
